@@ -1,7 +1,6 @@
 ### EXERCISE 15
 ### 1 This database is getting too big, lets remove all movies that were released before 2005.
 ```SQL
-SELECT title,
 DELETE FROM movies
 where year < 2005;
 ```
