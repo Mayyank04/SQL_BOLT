@@ -1,4 +1,4 @@
-### EXERCISE 10
+### EXERCISE 12
 ### 1 Find the number of movies each director has directed
 ```SQL
 SELECT director, COUNT(*) AS num_movies

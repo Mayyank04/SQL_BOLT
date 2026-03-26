@@ -1,4 +1,4 @@
-### EXERCISE 11
+### EXERCISE 13
 ### 1 Add the studio's new production, Toy Story 4 to the list of movies (you can use any director)
 ```SQL
 INSERT INTO movies VALUES (4, "Toy Story 4", "peter parker", 2021, 112);
